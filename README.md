@@ -9,3 +9,4 @@ If the page is in the memcache it just displays, if not it puts it in the cache.
 You could add:
 - management of deleting the cache
 - management on setting and changing the cache when a post is added/deleted
+- batch to add all the URLs os a site in the cache
